@@ -171,7 +171,7 @@ header .header__links .links__btn {
 }
 
 header .header__links .links__btn:hover {
-    background: #000;
+    background: #fff;
     color: #000
 }
 
@@ -343,7 +343,7 @@ section.intro .intro__links .links__link.border {
 
 section.intro .intro__links .links__link.border:hover {
     color: #050505;
-    background: #000
+    background: #fff
 }
 
 /* section.about {
@@ -619,7 +619,7 @@ section.base .base__content .content__links .links__link.border {
 }
 
 section.base .base__content .content__links .links__link.border:hover {
-    background: #000;
+    background: #fff;
     color: #000
 }
 
@@ -814,7 +814,7 @@ section.base2 .base2__content .content__links .links__link.border {
 }
 
 section.base2 .base2__content .content__links .links__link.border:hover {
-    background: #000;
+    background: #fff;
     color: #000
 }
 
@@ -965,7 +965,7 @@ section.features .features__grid .grid__block .block__btn {
 
 section.features .features__grid .grid__block .block__btn:hover {
     color: #000;
-    background: #000
+    background: #fff
 }
 
 section.features .features__grid .grid__block .block__btn:hover svg path {
